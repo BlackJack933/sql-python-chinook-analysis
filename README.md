@@ -51,3 +51,7 @@ matplotlib
    pip install pandas matplotlib
    ```
 3. Open `chinook_analysis.ipynb` in Jupyter and run all cells top to bottom.
+
+## Project Page
+
+[View on Roadmap.sh](https://roadmap.sh/projects/querying-sql-python)
